@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+cron "0 9 * * *" script-path=xxx.py,tag=匹配cron用
+new Env('猫熊网络加速器')
+"""
 
 import requests
 import os
